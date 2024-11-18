@@ -1,0 +1,17 @@
+GKE, Anthos , VPC configuration ,App Engine and latest features of SQL and NoSQL Databases
+
+"Event" examples include a pay failure and order fulfillment - What downstream notifications need to be fired off from that event? Does the customer need to be notified? Does a grace period need to be taken into account? Does a disconnect command need to go to the third party provisioner? Do requirements need to be modified?
+
+To be successful in this role, you will need the following:
+
+ Product Failure Mode Avoidance - Mitigates potential product failure modes, by identifying interfaces, functions, functional requirements, interactions, control factors, noise factors, and prioritized potential failure modes and potential failure causes for the system of interest to effectively and efficiently improve the reliability of Cummins’ products.
+ Product Verification and Validation Management - Develops product systems validation plans from a variety of inputs to identify failure modes, while managing product risk and relative priority; negotiates product requirements against capability to guide project scope; evaluates analytical, simulation and physical test results to verify product capability and validate requirements; assesses legacy versus proposed system solution capabilities and produces recommendations with technical documentation to support product decisions.
+ System Requirements Engineering - Uses appropriate methods and tools to translate stakeholder needs into verifiable requirements to which designs are developed; establishes acceptance criteria for the system of interest through analysis, allocation and negotiation; tracks the status of requirements throughout the system lifecycle; assesses the impact of changes to system requirements on project scope, schedule, and resources; creates and maintains information linkages to related artifacts.
+ Systems Thinking - Defines the system of interest by drawing the boundaries, identifying its context within its environment, its interfaces, and that it has a lifecycle to aid in planning the problem statement, scope and deliverables ; analyzes linkages and interactions between elements that comprise the system of interest by using appropriate methods, models and integration of outcomes to understand the system, predict its behavior and devise modifications to it in order to produce the desired effects.
+
+Education, Licenses, Certifications
+
+College, university, or equivalent Bachelor's degree in Engineering or appropriate STEM field is required.
+This position may require licensing for compliance with export controls or sanctions regulations
+
+Create, monitor and report on a set of KPIs that enable us to measure and improve performance of each stage in the end-to-end integration process (e.g. scoping, configuration, testing, go live, stabilization). 
